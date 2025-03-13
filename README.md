@@ -7,7 +7,6 @@ This is a Laravel-based e-commerce application that includes authentication, sho
 - **Composer**: Latest version
 - **MySQL**: 8.0+
 - **Laravel**: 12+
-- **Node.js & NPM** (if using frontend assets like Vue or React)
 
 ## Installation
 
@@ -20,7 +19,6 @@ cd isagha-ecommerce-task
 ### 2. Install Dependencies
 ```bash
 composer install
-npm install  # If using frontend assets
 ```
 
 ### 3. Environment Configuration
