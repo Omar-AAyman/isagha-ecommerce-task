@@ -8,6 +8,18 @@ This is a Laravel-based e-commerce application that includes authentication, sho
 - **MySQL**: 8.0+
 - **Laravel**: 12+
 
+## Live Demo
+You can test the application at:
+[Live Link](https://isagha-ecommerce.kesug.com/)
+
+### Test Payment Credentials
+- **Card Type**: Mastercard
+- **Card Number**: 5123456789012346
+- **Cardholder Name**: Omar Ayman
+- **Expiry Month**: 12
+- **Expiry Year**: 25
+- **CVV**: 123
+
 ## Installation
 
 ### 1. Clone the Repository
