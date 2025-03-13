@@ -5,8 +5,8 @@ This is a Laravel-based e-commerce application that includes authentication, sho
 ## Requirements
 - **PHP**: ^8.2
 - **Composer**: Latest version
-- **MySQL**: 5.7+
-- **Laravel**: 10+
+- **MySQL**: 8.0+
+- **Laravel**: 12+
 - **Node.js & NPM** (if using frontend assets like Vue or React)
 
 ## Installation
